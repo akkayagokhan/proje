@@ -12,6 +12,8 @@ kırmızı = 255 ,0, 0
 gri = 190 ,190,190
 cyan = 0 ,255, 255
 pink = 255 ,105, 180
+purple = 160 ,32, 24
+yeni_renk = 150, 200 , 100
 <<<<<<< HEAD
 purple = 160 ,32, 240
 yeni_renk = 140, 180 , 100
@@ -48,6 +50,5 @@ while True:
 
     pg.display.flip()
 =======
-purple = 160 ,32, 24
-yeni_renk = 150, 200 , 100
+
 >>>>>>> 2590dd2df813b0a227207b538826ef5faef99190
