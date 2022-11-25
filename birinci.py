@@ -13,6 +13,7 @@ gri = 190 ,190,190
 cyan = 0 ,255, 255
 pink = 255 ,105, 180
 purple = 160 ,32, 240
+yeni_renk = 140, 180 , 100
 
 ekran = pg.display.set_mode( (en,boy) )
 x , y = 20 , 20
